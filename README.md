@@ -36,14 +36,13 @@
 ## Input Device and Control button:
 You need to use **Keyboard** to play the game.
 
-### In normal dungeon level
-you will use the **arrow key** to control movement
-you will use the  **Z key** and **X key** to control player action as button A and button B in
-NES controller.
-you will use the **Shift key** to pause the game
-you will use the **Enter key** to open the weapon  select UI and use  **Z key** to confirm
-you will use the **number key 1** on the main keyboard to open and close invincibility mode
-you will use the **number key 4** on the main keyboard to jump to the multiplayer custom
+### you will use the **arrow key** to control movement
+### you will use the  **Z key** and **X key** to control player action as button A and button B in
+### NES controller.
+### you will use the **Shift key** to pause the game
+### you will use the **Enter key** to open the weapon  select UI and use  **Z key** to confirm
+### you will use the **number key 1** on the main keyboard to open and close invincibility mode
+### you will use the **number key 4** on the main keyboard to jump to the multiplayer custom
 level and in this level, the second player can use **"O" "K" "L" ";"** as movement key and
 **"[" key and  "]" key** as action control.
 
