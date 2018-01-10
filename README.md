@@ -1,5 +1,8 @@
 # Follow instruction to install and play the game
 
+## Youtube video Link
+https://www.youtube.com/watch?v=PCjYaRh4hT0&index=3&list=PLvhWUQw6L-BUyH9WPqSGZA2IP78ldxFsD
+
 ## DownLoad:
 
     In this page, Click the green "Clone or download" button and then
