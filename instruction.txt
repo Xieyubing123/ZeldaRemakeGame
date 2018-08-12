@@ -1,0 +1,47 @@
+Follow instruction to install and play the game
+Youtube video Link
+https://www.youtube.com/watch?v=PCjYaRh4hT0&index=3&list=PLvhWUQw6L-BUyH9WPqSGZA2IP78ldxFsD
+
+DownLoad:
+In this page, Click the green "Clone or download" button and then
+choose "Download ZIP" to download the Zip file into your computer.
+
+After you download the zip file, go to your computer find the zip
+file, extract (decompress) it to get a folder.
+Open the game:
+Mac user: (windows user please look down)
+after you downloaded and decompressed your zip file. You will find
+a mac application within this folder. When you double click it, it
+can not open becasue the Mac security will report it is from
+unknown developer and ask you if you want to open it. Please click
+open here.
+
+If the game are not opened, in order to open the game,
+you need to go to top left of your Mac, click the apple icon, then
+go to "System Preferences" and then find the "Security & Privacy",
+double click it. Then you are at the Security & Privacy window,
+click the "General”, then you will see the bottom part is asking
+you if you want to open a unknown application, choose open anyway
+then back the click the game application again, a window will pop
+up to ask you to choose resolution and graphic quality, you can
+just click “play” to start the game.
+Windows user:
+after you downloaded and decompressed your zip file. You will find
+a windows folder within this folder, go into it and Double
+click the windows exe file to open the game. Then a window will pop up to ask you to
+choose resolution and graphic quality, you can just click “play” to
+start the game.
+Input Device and Control button:
+You need to use Keyboard to play the game.
+
+you will use the arrow key to control movement
+
+you will use the Z key and X key to control player action as button A and button B in NES controller.
+
+you will use the Shift key to pause the game
+
+you will use the Enter key to open the weapon select UI and use Z key to confirm
+
+you will use the number key 1 on the main keyboard to open and close invincibility mode
+
+you will use the number key 4 on the main keyboard to jump to the multiplayer custom level and in this level, the second player can use "O" "K" "L" ";" as movement key and "[" key and "]" key as action control.
